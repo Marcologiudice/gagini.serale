@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
-/* Foglio di stile CSS di Calapso serale provvisorio dal 29-09-25(BETA).fet
-   Foglio di stile generato con FET 7.4.7 su 20/09/25 21:51 */
+/* Foglio di stile CSS di Calapso serale provvisorio dal 22-09-25(2 ore).fet
+   Foglio di stile generato con FET 7.4.7 su 20/09/25 22:55 */
 
 /* Per inserire un salto di pagina ogni due orari, cancellare "page-break-before: always;" in "table.even_table". */
 /* Elimina "page-break-before: always;" in "table.even_table" e in "table.odd_table" per evitare i salti di pagina. */
@@ -293,19 +293,19 @@ span.t_9 { /* teacher Triolo Vanessa */
 
 }
 
-span.t_10 { /* teacher Rametta Giuseppe */
+span.t_10 { /* teacher Monaca Francesco */
 
 }
 
-span.t_11 { /* teacher Russo Signorino */
+span.t_11 { /* teacher Rametta Giuseppe */
 
 }
 
-span.t_12 { /* teacher Di Dio Giovanna */
+span.t_12 { /* teacher Russo Signorino */
 
 }
 
-span.t_13 { /* teacher Monaca Francesco */
+span.t_13 { /* teacher Di Dio Giovanna */
 
 }
 
@@ -481,6 +481,260 @@ tr.line2, div.line2 {
 tr.line3, div.line3 {
   font-size: smaller;
   color: silver;
+}
+
+/* Attenzione: si potrebbe ottenere stili sovrapponibili ed ambigui. Il CSS implica che sarà utilizzata l'ultima definizione. */
+
+td.s_1 { /* subject ITALIANO */
+
+}
+
+td.s_2 { /* subject STORIA */
+
+}
+
+td.s_3 { /* subject INGLESE */
+
+}
+
+td.s_4 { /* subject MATEMATICA */
+
+}
+
+td.s_5 { /* subject RELIGIONE */
+
+}
+
+td.s_6 { /* subject CHIMICA */
+
+}
+
+td.s_7 { /* subject Lab. CHIMICA */
+
+}
+
+td.s_8 { /* subject TIC */
+
+}
+
+td.s_9 { /* subject LTE */
+
+}
+
+td.s_10 { /* subject TEEA */
+
+}
+
+td.s_11 { /* subject Lab. TEEA */
+
+}
+
+td.s_12 { /* subject TMA */
+
+}
+
+td.s_13 { /* subject Lab. TMA */
+
+}
+
+td.s_14 { /* subject TTIM */
+
+}
+
+td.s_15 { /* subject Lab.TTIM */
+
+}
+
+td.s_16 { /* subject TTRG */
+
+}
+
+td.s_17 { /* subject Storia e filosofia */
+
+}
+
+td.s_18 { /* subject Matematica e fisica */
+
+}
+
+td.s_19 { /* subject Discipline grafico pittoriche */
+
+}
+
+td.s_20 { /* subject Laboratorio artistico */
+
+}
+
+td.s_21 { /* subject Discipline pittoriche */
+
+}
+
+td.s_22 { /* subject Lab. della figurazione pittura */
+
+}
+
+td.s_23 { /* subject Storia dell'Arte */
+
+}
+
+td.s_24 { /* subject Discipline geometriche */
+
+}
+
+td.s_25 { /* subject Discipline plastiche e scultoree */
+
+}
+
+td.s_26 { /* subject Tecnologie dei materiali e dei processi produttivi e organizzativi della moda */
+
+}
+
+td.s_27 { /* subject Ideazione, progettazione e industrializzazione dei prodotti moda */
+
+}
+
+td.s_28 { /* subject Chimica applicata e nobilitazione dei materiali per i prodotti moda */
+
+}
+
+td.s_29 { /* subject Laboratorio di scienze e tecnologie tessili, dell’abbigliamento e della mod */
+
+}
+
+td.s_30 { /* subject Economia e marketing delle aziende della moda */
+
+}
+
+td.at_1 { /* activity tag IPSIA */
+
+}
+
+td.at_2 { /* activity tag ITAS */
+
+}
+
+td.at_3 { /* activity tag LICEO */
+
+}
+
+td.ss_1 { /* students set 2 IPSIA */
+
+}
+
+td.ss_4 { /* students set 3 IPSIA */
+
+}
+
+td.ss_7 { /* students set 2E IPSIA */
+
+}
+
+td.ss_10 { /* students set 4 IPSIA */
+
+}
+
+td.ss_13 { /* students set 5 IPSIA */
+
+}
+
+td.ss_16 { /* students set 3E IPSIA */
+
+}
+
+td.ss_19 { /* students set 2 LICEO */
+
+}
+
+td.ss_22 { /* students set 4 LICEO */
+
+}
+
+td.ss_25 { /* students set 3 ITAS */
+
+}
+
+td.t_1 { /* teacher Spina Loredana */
+
+}
+
+td.t_2 { /* teacher Alfano Sara */
+
+}
+
+td.t_3 { /* teacher Magro Emanuele */
+
+}
+
+td.t_4 { /* teacher Lo Giudice Marco */
+
+}
+
+td.t_5 { /* teacher Sarta Vincenzo */
+
+}
+
+td.t_6 { /* teacher Cirmena Roberto */
+
+}
+
+td.t_7 { /* teacher Italia Rosalinda */
+
+}
+
+td.t_8 { /* teacher Oddo Viviana */
+
+}
+
+td.t_9 { /* teacher Triolo Vanessa */
+
+}
+
+td.t_10 { /* teacher Monaca Francesco */
+
+}
+
+td.t_11 { /* teacher Rametta Giuseppe */
+
+}
+
+td.t_12 { /* teacher Russo Signorino */
+
+}
+
+td.t_13 { /* teacher Di Dio Giovanna */
+
+}
+
+td.t_14 { /* teacher Chimica */
+
+}
+
+td.t_15 { /* teacher Lab. Chimica */
+
+}
+
+td.t_16 { /* teacher Storia e filosofia */
+
+}
+
+td.t_17 { /* teacher Storia dell'Arte */
+
+}
+
+td.t_18 { /* teacher Discipline plastiche e scultoree */
+
+}
+
+td.t_19 { /* teacher Lab. tessile */
+
+}
+
+td.t_20 { /* teacher Economia e marketing delle aziende della moda */
+
+}
+
+td.t_21 { /* teacher Mateiali e ideazione */
+
 }
 
 /* Disegna i periodi liberi degli insegnanti */
