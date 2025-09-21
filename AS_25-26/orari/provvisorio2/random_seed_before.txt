@@ -1,0 +1,7 @@
+﻿Inizio dell'elaborazione: 20/09/25 21:51
+
+Il seme casuale all'inizio della generazione è:
+	s10=1300547656, s11=2172845604, s12=88195872,
+	s20=577919884, s21=2447012104, s22=3934083226.
+
+Questo file è stato generato automaticamente da FET 7.4.7.

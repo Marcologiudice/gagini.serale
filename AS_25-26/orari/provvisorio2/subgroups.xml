@@ -1,0 +1,1328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="2 IPSIA Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="48"></Activity>
+        <Teacher name="Triolo Vanessa"></Teacher>
+        <Subject name="RELIGIONE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="66"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="70"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="38"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TIC"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="38"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TIC"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="9"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="9"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="189"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTRG"></Subject>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="10"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTRG"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="10"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTRG"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="107"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="8"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="8"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="52"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="44"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="44"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="19"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="19"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="130"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="67"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="3 IPSIA Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="63"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="49"></Activity>
+        <Teacher name="Triolo Vanessa"></Teacher>
+        <Subject name="RELIGIONE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="16"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="106"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="45"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="45"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="2"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="2"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="34"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="127"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="119"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="21"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="21"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="71"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="5"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="98"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="88"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="114"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="11"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="53"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="2E IPSIA Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="12"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="115"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="16"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="106"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="39"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="109"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="17"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="27"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab.TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="22"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="22"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="34"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="99"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="119"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="21"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="21"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="123"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="123"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="98"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="117"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="114"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="4 IPSIA Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="12"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="115"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="64"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="72"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="39"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="109"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="17"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="27"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab.TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="87"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="22"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="22"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="128"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="99"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="54"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="46"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="46"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="123"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="123"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="6"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="117"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="3"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="3"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="35"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="5 IPSIA Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="105"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="105"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="50"></Activity>
+        <Teacher name="Triolo Vanessa"></Teacher>
+        <Subject name="RELIGIONE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="7"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="111"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="13"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="47"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="47"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="73"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="121"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="126"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="86"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="4"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="4"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="36"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="36"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="65"></Activity>
+        <Teacher name="Spina Loredana"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="55"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="129"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="40"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="118"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="28"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab.TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="18"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="3E IPSIA Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="105"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="105"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="111"></Activity>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="LTE"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="13"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Subject name="TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="121"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="126"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="36"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="36"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Sarta Vincenzo"></Teacher>
+        <Subject name="Lab. TEEA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="40"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="118"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Subject name="TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="28"></Activity>
+        <Teacher name="Cirmena Roberto"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab.TTIM"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="18"></Activity>
+        <Teacher name="Magro Emanuele"></Teacher>
+        <Teacher name="Lo Giudice Marco"></Teacher>
+        <Subject name="Lab. TMA"></Subject>
+        <Activity_Tag name="IPSIA"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="2 LICEO Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="166"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Laboratorio artistico"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="166"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Laboratorio artistico"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="164"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline grafico pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="164"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline grafico pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="165"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline grafico pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="158"></Activity>
+        <Teacher name="Triolo Vanessa"></Teacher>
+        <Subject name="RELIGIONE"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="150"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="160"></Activity>
+        <Teacher name="Rametta Giuseppe"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="161"></Activity>
+        <Teacher name="Rametta Giuseppe"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="149"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="144"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="140"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="139"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="139"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="143"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="182"></Activity>
+        <Teacher name="Di Dio Giovanna"></Teacher>
+        <Subject name="Discipline geometriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="182"></Activity>
+        <Teacher name="Di Dio Giovanna"></Teacher>
+        <Subject name="Discipline geometriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="183"></Activity>
+        <Teacher name="Di Dio Giovanna"></Teacher>
+        <Subject name="Discipline geometriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="4 LICEO Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="162"></Activity>
+        <Teacher name="Rametta Giuseppe"></Teacher>
+        <Subject name="Matematica e fisica"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="162"></Activity>
+        <Teacher name="Rametta Giuseppe"></Teacher>
+        <Subject name="Matematica e fisica"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="142"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="171"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Lab. della figurazione pittura"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="171"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Lab. della figurazione pittura"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="170"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Lab. della figurazione pittura"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="170"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Lab. della figurazione pittura"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="163"></Activity>
+        <Teacher name="Rametta Giuseppe"></Teacher>
+        <Subject name="Matematica e fisica"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="141"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="141"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="167"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="167"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="168"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+        <Activity id="168"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="5">
+        <Activity id="169"></Activity>
+        <Teacher name="Russo Signorino"></Teacher>
+        <Subject name="Discipline pittoriche"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="151"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="152"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="LICEO"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="3 ITAS Gruppo automatico Sottogruppo automatico">
+    <Day name="Lunedì">
+      <Hour name="1">
+        <Activity id="135"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="135"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Martedì">
+      <Hour name="1">
+        <Activity id="157"></Activity>
+        <Teacher name="Triolo Vanessa"></Teacher>
+        <Subject name="RELIGIONE"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="145"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Mercoledì">
+      <Hour name="1">
+        <Activity id="138"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="148"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Govedì">
+      <Hour name="1">
+        <Activity id="146"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="STORIA"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="147"></Activity>
+        <Teacher name="Oddo Viviana"></Teacher>
+        <Subject name="INGLESE"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+    <Day name="Venerdì">
+      <Hour name="1">
+        <Activity id="136"></Activity>
+        <Teacher name="Italia Rosalinda"></Teacher>
+        <Subject name="MATEMATICA"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="2">
+        <Activity id="137"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="3">
+        <Activity id="137"></Activity>
+        <Teacher name="Alfano Sara"></Teacher>
+        <Subject name="ITALIANO"></Subject>
+        <Activity_Tag name="ITAS"></Activity_Tag>
+      </Hour>
+      <Hour name="4">
+      </Hour>
+      <Hour name="5">
+      </Hour>
+      <Hour name="6">
+      </Hour>
+    </Day>
+  </Subgroup>
+</Students_Timetable>
