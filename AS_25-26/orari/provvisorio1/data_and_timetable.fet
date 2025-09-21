@@ -1,0 +1,4186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fet version="7.4.7">
+  <Mode>Official</Mode>
+  <Institution_Name>Calapso Serale</Institution_Name>
+  <Comments>Default comments</Comments>
+  <Days_List>
+    <Number_of_Days>5</Number_of_Days>
+    <Day>
+      <Name>Lunedì</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Martedì</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Mercoledì</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Govedì</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Venerdì</Name>
+      <Long_Name></Long_Name>
+    </Day>
+  </Days_List>
+  <Hours_List>
+    <Number_of_Hours>6</Number_of_Hours>
+    <Hour>
+      <Name>1</Name>
+      <Long_Name>16:30</Long_Name>
+    </Hour>
+    <Hour>
+      <Name>2</Name>
+      <Long_Name>17:30</Long_Name>
+    </Hour>
+    <Hour>
+      <Name>3</Name>
+      <Long_Name>18:30</Long_Name>
+    </Hour>
+    <Hour>
+      <Name>4</Name>
+      <Long_Name>19:00</Long_Name>
+    </Hour>
+    <Hour>
+      <Name>5</Name>
+      <Long_Name>19:50</Long_Name>
+    </Hour>
+    <Hour>
+      <Name>6</Name>
+      <Long_Name>20:40</Long_Name>
+    </Hour>
+  </Hours_List>
+  <Subjects_List>
+    <Subject>
+      <Name>ITALIANO</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>STORIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>INGLESE</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>MATEMATICA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>RELIGIONE</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>CHIMICA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Lab. CHIMICA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>TIC</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>LTE</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>TEEA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Lab. TEEA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>TMA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Lab. TMA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>TTIM</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Lab.TTIM</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>TTRG</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Storia e filosofia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Matematica e fisica</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Discipline grafico pittoriche</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Laboratorio artistico</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Discipline pittoriche</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Lab. della figurazione pittura</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Storia dell&apos;Arte</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Discipline geometriche</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Discipline plastiche e scultoree</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Tecnologie dei materiali e dei processi produttivi e organizzativi della moda</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Ideazione, progettazione e industrializzazione dei prodotti moda</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Chimica applicata e nobilitazione dei materiali per i prodotti moda</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Laboratorio di scienze e tecnologie tessili, dell’abbigliamento e della mod</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Economia e marketing delle aziende della moda</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+  </Subjects_List>
+  <Activity_Tags_List>
+    <Activity_Tag>
+      <Name>IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>ITAS</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>LICEO</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+  </Activity_Tags_List>
+  <Teachers_List>
+    <Teacher>
+      <Name>Spina Loredana</Name>
+      <Long_Name></Long_Name>
+      <Code>A-12</Code>
+      <Target_Number_of_Hours>18</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>ITALIANO</Qualified_Subject>
+        <Qualified_Subject>STORIA</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Alfano Sara</Name>
+      <Long_Name></Long_Name>
+      <Code>A-12</Code>
+      <Target_Number_of_Hours>16</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>STORIA</Qualified_Subject>
+        <Qualified_Subject>ITALIANO</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Magro Emanuele</Name>
+      <Long_Name></Long_Name>
+      <Code>A-42</Code>
+      <Target_Number_of_Hours>15</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>TMA</Qualified_Subject>
+        <Qualified_Subject>TTIM</Qualified_Subject>
+        <Qualified_Subject>TTRG</Qualified_Subject>
+        <Qualified_Subject>Lab. TMA</Qualified_Subject>
+        <Qualified_Subject>Lab.TTIM</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Lo Giudice Marco</Name>
+      <Long_Name></Long_Name>
+      <Code>B-17</Code>
+      <Target_Number_of_Hours>18</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>LTE</Qualified_Subject>
+        <Qualified_Subject>Lab. TMA</Qualified_Subject>
+        <Qualified_Subject>Lab.TTIM</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Sarta Vincenzo</Name>
+      <Long_Name></Long_Name>
+      <Code>B-15</Code>
+      <Target_Number_of_Hours>5</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Lab. TEEA</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Cirmena Roberto</Name>
+      <Long_Name></Long_Name>
+      <Code>A-40</Code>
+      <Target_Number_of_Hours>16</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>TEEA</Qualified_Subject>
+        <Qualified_Subject>Lab. TEEA</Qualified_Subject>
+        <Qualified_Subject>TTIM</Qualified_Subject>
+        <Qualified_Subject>Lab.TTIM</Qualified_Subject>
+        <Qualified_Subject>TIC</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Italia Rosalinda</Name>
+      <Long_Name></Long_Name>
+      <Code>A-26</Code>
+      <Target_Number_of_Hours>15</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>MATEMATICA</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Oddo Viviana</Name>
+      <Long_Name></Long_Name>
+      <Code>A-24(a)</Code>
+      <Target_Number_of_Hours>14</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>INGLESE</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Triolo Vanessa</Name>
+      <Long_Name></Long_Name>
+      <Code>RLSS</Code>
+      <Target_Number_of_Hours>5</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>RELIGIONE</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Monaca Francesco</Name>
+      <Long_Name></Long_Name>
+      <Code>A-42</Code>
+      <Target_Number_of_Hours>3</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>TTRG</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Rametta Giuseppe</Name>
+      <Long_Name></Long_Name>
+      <Code>A-27</Code>
+      <Target_Number_of_Hours>5</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>MATEMATICA</Qualified_Subject>
+        <Qualified_Subject>Matematica e fisica</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Russo Signorino</Name>
+      <Long_Name></Long_Name>
+      <Code>A-09</Code>
+      <Target_Number_of_Hours>14</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Discipline grafico pittoriche</Qualified_Subject>
+        <Qualified_Subject>Laboratorio artistico</Qualified_Subject>
+        <Qualified_Subject>Discipline pittoriche</Qualified_Subject>
+        <Qualified_Subject>Lab. della figurazione pittura</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Di Dio Giovanna</Name>
+      <Long_Name></Long_Name>
+      <Code>A-08</Code>
+      <Target_Number_of_Hours>3</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Discipline geometriche</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Chimica</Name>
+      <Long_Name></Long_Name>
+      <Code>A-34</Code>
+      <Target_Number_of_Hours>5</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>CHIMICA</Qualified_Subject>
+        <Qualified_Subject>Lab. CHIMICA</Qualified_Subject>
+        <Qualified_Subject>Chimica applicata e nobilitazione dei materiali per i prodotti moda</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Lab. Chimica</Name>
+      <Long_Name></Long_Name>
+      <Code>B-12</Code>
+      <Target_Number_of_Hours>1</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Lab. CHIMICA</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Storia e filosofia</Name>
+      <Long_Name></Long_Name>
+      <Code>A-19</Code>
+      <Target_Number_of_Hours>3</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Storia e filosofia</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Storia dell&apos;Arte</Name>
+      <Long_Name></Long_Name>
+      <Code>A-54</Code>
+      <Target_Number_of_Hours>4</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Storia dell&apos;Arte</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Discipline plastiche e scultoree</Name>
+      <Long_Name></Long_Name>
+      <Code>A-14</Code>
+      <Target_Number_of_Hours>3</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Discipline plastiche e scultoree</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Lab. tessile</Name>
+      <Long_Name></Long_Name>
+      <Code>B-18</Code>
+      <Target_Number_of_Hours>6</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Tecnologie dei materiali e dei processi produttivi e organizzativi della moda</Qualified_Subject>
+        <Qualified_Subject>Ideazione, progettazione e industrializzazione dei prodotti moda</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Economia e marketing delle aziende della moda</Name>
+      <Long_Name></Long_Name>
+      <Code>A-46</Code>
+      <Target_Number_of_Hours>2</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Mateiali e ideazione</Name>
+      <Long_Name></Long_Name>
+      <Code>A-44</Code>
+      <Target_Number_of_Hours>8</Target_Number_of_Hours>
+      <Qualified_Subjects>
+        <Qualified_Subject>Tecnologie dei materiali e dei processi produttivi e organizzativi della moda</Qualified_Subject>
+        <Qualified_Subject>Ideazione, progettazione e industrializzazione dei prodotti moda</Qualified_Subject>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+  </Teachers_List>
+  <Students_List>
+    <Year>
+      <Name>2 IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>20</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>3 IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>20</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>2E IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>4 IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>28</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>5 IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>20</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>3E IPSIA</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>2 LICEO</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>4 LICEO</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>3 ITAS</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>0</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+  </Students_List>
+  <Activities_List>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>2</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>3</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>4</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>5</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>6</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>7</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>8</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>9</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Monaca Francesco</Teacher>
+      <Subject>TTRG</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>3</Duration>
+      <Total_Duration>3</Total_Duration>
+      <Id>10</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>11</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>12</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>13</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>14</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab.TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>15</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab. TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>16</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab. TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>17</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab. TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>18</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>19</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>21</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>22</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab.TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>27</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab.TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>28</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>34</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>35</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Subject>Lab. TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>36</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TIC</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>38</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>39</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>40</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Chimica</Teacher>
+      <Subject>CHIMICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>41</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Chimica</Teacher>
+      <Teacher>Lab. Chimica</Teacher>
+      <Subject>Lab. CHIMICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>42</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>44</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>45</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>46</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>47</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Triolo Vanessa</Teacher>
+      <Subject>RELIGIONE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>48</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Triolo Vanessa</Teacher>
+      <Subject>RELIGIONE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>49</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Triolo Vanessa</Teacher>
+      <Subject>RELIGIONE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>50</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>52</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>53</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>54</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>55</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>63</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>64</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>65</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>66</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>67</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>70</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>71</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>72</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>73</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>86</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>87</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Spina Loredana</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>88</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Subject>Lab. TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>98</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>99</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>105</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>Lab. TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>106</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>107</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>109</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Subject>LTE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>111</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>114</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TMA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>115</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>116</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Magro Emanuele</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>117</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>118</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>119</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>121</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Subject>Lab. TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>122</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Subject>Lab. TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>123</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Subject>Lab. TEEA</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Students>2E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>124</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Subject>TTIM</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Students>3E IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>126</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>3 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>127</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>4 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>128</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>5 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>129</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>IPSIA</Activity_Tag>
+      <Students>2 IPSIA</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>130</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>135</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>136</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>137</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>138</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>139</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>140</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>141</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>ITALIANO</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>142</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>143</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>144</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>145</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alfano Sara</Teacher>
+      <Subject>STORIA</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>146</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>147</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>148</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>149</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>150</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>151</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Oddo Viviana</Teacher>
+      <Subject>INGLESE</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>152</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Chimica</Teacher>
+      <Subject>CHIMICA</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>153</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Chimica</Teacher>
+      <Subject>CHIMICA</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>154</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Triolo Vanessa</Teacher>
+      <Subject>RELIGIONE</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>157</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Triolo Vanessa</Teacher>
+      <Subject>RELIGIONE</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>158</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rametta Giuseppe</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>160</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rametta Giuseppe</Teacher>
+      <Subject>MATEMATICA</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>161</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rametta Giuseppe</Teacher>
+      <Subject>Matematica e fisica</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>162</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Rametta Giuseppe</Teacher>
+      <Subject>Matematica e fisica</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>163</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Discipline grafico pittoriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>164</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Discipline grafico pittoriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>165</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Laboratorio artistico</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>166</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Discipline pittoriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>167</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Discipline pittoriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>168</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Discipline pittoriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>169</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Lab. della figurazione pittura</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>170</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Russo Signorino</Teacher>
+      <Subject>Lab. della figurazione pittura</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>171</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Storia e filosofia</Teacher>
+      <Subject>Storia e filosofia</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>172</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Storia e filosofia</Teacher>
+      <Subject>Storia e filosofia</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>173</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Storia dell&apos;Arte</Teacher>
+      <Subject>Storia dell&apos;Arte</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>176</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Storia dell&apos;Arte</Teacher>
+      <Subject>Storia dell&apos;Arte</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>177</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Storia dell&apos;Arte</Teacher>
+      <Subject>Storia dell&apos;Arte</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>178</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Storia dell&apos;Arte</Teacher>
+      <Subject>Storia dell&apos;Arte</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>4 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>179</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Discipline plastiche e scultoree</Teacher>
+      <Subject>Discipline plastiche e scultoree</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>180</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Discipline plastiche e scultoree</Teacher>
+      <Subject>Discipline plastiche e scultoree</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>181</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Di Dio Giovanna</Teacher>
+      <Subject>Discipline geometriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>182</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Di Dio Giovanna</Teacher>
+      <Subject>Discipline geometriche</Subject>
+      <Activity_Tag>LICEO</Activity_Tag>
+      <Students>2 LICEO</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>183</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Mateiali e ideazione</Teacher>
+      <Teacher>Lab. tessile</Teacher>
+      <Subject>Tecnologie dei materiali e dei processi produttivi e organizzativi della moda</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>3</Duration>
+      <Total_Duration>3</Total_Duration>
+      <Id>184</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Mateiali e ideazione</Teacher>
+      <Subject>Tecnologie dei materiali e dei processi produttivi e organizzativi della moda</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>185</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Mateiali e ideazione</Teacher>
+      <Teacher>Lab. tessile</Teacher>
+      <Subject>Ideazione, progettazione e industrializzazione dei prodotti moda</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>3</Duration>
+      <Total_Duration>3</Total_Duration>
+      <Id>186</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Mateiali e ideazione</Teacher>
+      <Subject>Ideazione, progettazione e industrializzazione dei prodotti moda</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>187</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Economia e marketing delle aziende della moda</Teacher>
+      <Subject>Economia e marketing delle aziende della moda</Subject>
+      <Activity_Tag>ITAS</Activity_Tag>
+      <Students>3 ITAS</Students>
+      <Duration>2</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>188</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>false</Active>
+      <Comments></Comments>
+    </Activity>
+  </Activities_List>
+  <Buildings_List>
+    <Building>
+      <Name>Plesso A</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Building>
+    <Building>
+      <Name>Plesso B</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Building>
+  </Buildings_List>
+  <Rooms_List>
+    <Room>
+      <Name>-C1-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>20</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>-C2-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>20</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>C3-DOM</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>20</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>-C4/5-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>28</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>-C6-LN1-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>-C7-LN2-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>-C10/12-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>20</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>A17-CHIM</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B1-OFF</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B2-SAL</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B3-FIS</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B4-MAN</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B5-CNC</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B6-PNE</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>-B9-LL1-</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>B10-INF</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>C11-DIS</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>30000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+  </Rooms_List>
+  <Time_Constraints_List>
+    <ConstraintBasicCompulsoryTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsoryTime>
+    <ConstraintStudentsEarlyMaxBeginningsAtSecondHour>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Max_Beginnings_At_Second_Hour>0</Max_Beginnings_At_Second_Hour>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsEarlyMaxBeginningsAtSecondHour>
+    <ConstraintStudentsMaxGapsPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Max_Gaps>0</Max_Gaps>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsMaxGapsPerWeek>
+    <ConstraintStudentsMinHoursDaily>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Minimum_Hours_Daily>2</Minimum_Hours_Daily>
+      <Allow_Empty_Days>false</Allow_Empty_Days>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsMinHoursDaily>
+    <ConstraintTeachersMaxHoursDaily>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Maximum_Hours_Daily>5</Maximum_Hours_Daily>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeachersMaxHoursDaily>
+    <ConstraintTeachersMaxGapsPerDay>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Max_Gaps>0</Max_Gaps>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeachersMaxGapsPerDay>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>2 IPSIA</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>3 IPSIA</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>4 IPSIA</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>5 IPSIA</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>2 LICEO</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>4 LICEO</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>3 ITAS</Students>
+      <Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Spina Loredana</Teacher>
+      <Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Russo Signorino</Teacher>
+      <Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Alfano Sara</Teacher>
+      <Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Magro Emanuele</Teacher>
+      <Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Di Dio Giovanna</Teacher>
+      <Number_of_Not_Available_Times>25</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Lunedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Martedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mercoledì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>2</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>3</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>4</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>5</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Govedì</Day>
+        <Hour>6</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Venerdì</Day>
+        <Hour>1</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherMinDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Lo Giudice Marco</Teacher>
+      <Minimum_Days_Per_Week>5</Minimum_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMinDaysPerWeek>
+    <ConstraintTeacherMinDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Spina Loredana</Teacher>
+      <Minimum_Days_Per_Week>5</Minimum_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMinDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Alfano Sara</Teacher>
+      <Max_Days_Per_Week>4</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Storia dell&apos;Arte</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Cirmena Roberto</Teacher>
+      <Max_Days_Per_Week>4</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Triolo Vanessa</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Monaca Francesco</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Chimica</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Magro Emanuele</Teacher>
+      <Max_Days_Per_Week>4</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Italia Rosalinda</Teacher>
+      <Max_Days_Per_Week>3</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Oddo Viviana</Teacher>
+      <Max_Days_Per_Week>3</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Rametta Giuseppe</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Sarta Vincenzo</Teacher>
+      <Max_Days_Per_Week>1</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Russo Signorino</Teacher>
+      <Max_Days_Per_Week>3</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Di Dio Giovanna</Teacher>
+      <Max_Days_Per_Week>1</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>44</Activity_Id>
+      <Activity_Id>70</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>45</Activity_Id>
+      <Activity_Id>71</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>46</Activity_Id>
+      <Activity_Id>72</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>47</Activity_Id>
+      <Activity_Id>73</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>135</Activity_Id>
+      <Activity_Id>136</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>160</Activity_Id>
+      <Activity_Id>161</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>162</Activity_Id>
+      <Activity_Id>163</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>2</Activity_Id>
+      <Activity_Id>63</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>3</Activity_Id>
+      <Activity_Id>64</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>4</Activity_Id>
+      <Activity_Id>65</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>8</Activity_Id>
+      <Activity_Id>66</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>5</Activity_Id>
+      <Activity_Id>88</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>6</Activity_Id>
+      <Activity_Id>87</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>7</Activity_Id>
+      <Activity_Id>86</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>52</Activity_Id>
+      <Activity_Id>130</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>53</Activity_Id>
+      <Activity_Id>127</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>54</Activity_Id>
+      <Activity_Id>128</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>55</Activity_Id>
+      <Activity_Id>129</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>9</Activity_Id>
+      <Activity_Id>67</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>137</Activity_Id>
+      <Activity_Id>138</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>145</Activity_Id>
+      <Activity_Id>146</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>139</Activity_Id>
+      <Activity_Id>140</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>141</Activity_Id>
+      <Activity_Id>142</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>143</Activity_Id>
+      <Activity_Id>144</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>3</Number_of_Activities>
+      <Activity_Id>167</Activity_Id>
+      <Activity_Id>168</Activity_Id>
+      <Activity_Id>169</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>176</Activity_Id>
+      <Activity_Id>177</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>2</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>3</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>4</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>5</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>6</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>7</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>8</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>9</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>11</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>12</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>13</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>14</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>15</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>16</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>17</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>18</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>19</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>21</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>22</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>27</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>28</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>34</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>35</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>36</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>38</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>39</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>40</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>44</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>45</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>46</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>47</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>48</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>49</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>50</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>52</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>53</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>54</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>55</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>63</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>64</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>65</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>66</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>67</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>70</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>71</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>72</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>73</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>86</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>87</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>88</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>98</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>99</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>105</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>106</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>107</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>109</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>111</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>114</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>115</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>116</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>117</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>118</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>119</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>121</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>123</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>126</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>127</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>128</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>129</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>130</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>135</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>136</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>137</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>138</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>139</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>140</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>5</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>141</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>142</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>143</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>144</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>145</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>146</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>147</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>148</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>149</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>150</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>151</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>152</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>157</Activity_Id>
+      <Day>Martedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>158</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>160</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>161</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>162</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>163</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>164</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>165</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>166</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>167</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>168</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>3</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>169</Activity_Id>
+      <Day>Mercoledì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>170</Activity_Id>
+      <Day>Govedì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>171</Activity_Id>
+      <Day>Lunedì</Day>
+      <Hour>1</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>182</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>2</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>183</Activity_Id>
+      <Day>Venerdì</Day>
+      <Hour>4</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+  </Time_Constraints_List>
+  <Space_Constraints_List>
+    <ConstraintBasicCompulsorySpace>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsorySpace>
+  </Space_Constraints_List>
+  <Timetable_Generation_Options_List>
+  </Timetable_Generation_Options_List>
+</fet>
