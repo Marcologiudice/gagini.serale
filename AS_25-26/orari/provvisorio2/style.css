@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
-/* Foglio di stile CSS di Calapso serale provvisorio dal 29-09-25(BETA).fet
-   Foglio di stile generato con FET 7.4.7 su 20/09/25 21:51 */
+/* Foglio di stile CSS di Provvisorio dal 29-09-25.fet
+   Foglio di stile generato con FET 7.4.7 su 24/09/25 21:20 */
 
 /* Per inserire un salto di pagina ogni due orari, cancellare "page-break-before: always;" in "table.even_table". */
 /* Elimina "page-break-before: always;" in "table.even_table" e in "table.odd_table" per evitare i salti di pagina. */
@@ -89,324 +89,409 @@ th.yAxis {
   height: 8ex;
 }
 
-span.s_1 { /* subject ITALIANO */
-
+td.c_1 { /* Activity id: 2 (subject) */
+ background-color: rgb(211, 9, 10);
+ color: white;
 }
-
-span.s_2 { /* subject STORIA */
 
+td.c_2 { /* Activity id: 5 (subject) */
+ background-color: rgb(141, 219, 207);
+ color: black;
 }
 
-span.s_3 { /* subject INGLESE */
-
+td.c_3 { /* Activity id: 10 (subject) */
+ background-color: rgb(214, 17, 141);
+ color: white;
 }
 
-span.s_4 { /* subject MATEMATICA */
-
+td.c_4 { /* Activity id: 11 (subject) */
+ background-color: rgb(96, 6, 84);
+ color: white;
 }
-
-span.s_5 { /* subject RELIGIONE */
 
+td.c_5 { /* Activity id: 14 (subject) */
+ background-color: rgb(31, 240, 187);
+ color: black;
 }
 
-span.s_6 { /* subject CHIMICA */
-
+td.c_6 { /* Activity id: 15 (subject) */
+ background-color: rgb(60, 9, 54);
+ color: white;
 }
-
-span.s_7 { /* subject Lab. CHIMICA */
 
+td.c_7 { /* Activity id: 16 (subject) */
+ background-color: rgb(72, 80, 164);
+ color: white;
 }
 
-span.s_8 { /* subject TIC */
-
+td.c_8 { /* Activity id: 19 (subject) */
+ background-color: rgb(198, 255, 55);
+ color: black;
 }
 
-span.s_9 { /* subject LTE */
-
+td.c_9 { /* Activity id: 34 (subject) */
+ background-color: rgb(27, 16, 144);
+ color: white;
 }
-
-span.s_10 { /* subject TEEA */
 
+td.c_10 { /* Activity id: 36 (subject) */
+ background-color: rgb(224, 176, 64);
+ color: black;
 }
 
-span.s_11 { /* subject Lab. TEEA */
-
+td.c_11 { /* Activity id: 38 (subject) */
+ background-color: rgb(246, 162, 130);
+ color: black;
 }
-
-span.s_12 { /* subject TMA */
 
+td.c_12 { /* Activity id: 44 (subject) */
+ background-color: rgb(192, 134, 36);
+ color: black;
 }
 
-span.s_13 { /* subject Lab. TMA */
-
+td.c_13 { /* Activity id: 48 (subject) */
+ background-color: rgb(88, 229, 117);
+ color: black;
 }
 
-span.s_14 { /* subject TTIM */
-
+td.c_14 { /* Activity id: 52 (subject) */
+ background-color: rgb(127, 88, 156);
+ color: white;
 }
-
-span.s_15 { /* subject Lab.TTIM */
 
+td.c_15 { /* Activity id: 162 (subject) */
+ background-color: rgb(241, 34, 94);
+ color: white;
 }
 
-span.s_16 { /* subject TTRG */
-
+td.c_16 { /* Activity id: 164 (subject) */
+ background-color: rgb(209, 164, 66);
+ color: black;
 }
-
-span.s_17 { /* subject Storia e filosofia */
 
+td.c_17 { /* Activity id: 166 (subject) */
+ background-color: rgb(36, 65, 208);
+ color: white;
 }
 
-span.s_18 { /* subject Matematica e fisica */
-
+td.c_18 { /* Activity id: 167 (subject) */
+ background-color: rgb(195, 73, 121);
+ color: white;
 }
 
-span.s_19 { /* subject Discipline grafico pittoriche */
-
+td.c_19 { /* Activity id: 170 (subject) */
+ background-color: rgb(42, 49, 209);
+ color: white;
 }
-
-span.s_20 { /* subject Laboratorio artistico */
 
+td.c_20 { /* Activity id: 182 (subject) */
+ background-color: rgb(130, 104, 255);
+ color: black;
 }
 
-span.s_21 { /* subject Discipline pittoriche */
-
+td.c_21 { /* Activity id: 2 (subject+students) */
+ background-color: rgb(161, 191, 109);
+ color: black;
 }
-
-span.s_22 { /* subject Lab. della figurazione pittura */
 
+td.c_22 { /* Activity id: 3 (subject+students) */
+ background-color: rgb(3, 75, 201);
+ color: white;
 }
 
-span.s_23 { /* subject Storia dell'Arte */
-
+td.c_23 { /* Activity id: 4 (subject+students) */
+ background-color: rgb(56, 218, 69);
+ color: black;
 }
 
-span.s_24 { /* subject Discipline geometriche */
-
+td.c_24 { /* Activity id: 5 (subject+students) */
+ background-color: rgb(170, 209, 141);
+ color: black;
 }
-
-span.s_25 { /* subject Discipline plastiche e scultoree */
 
+td.c_25 { /* Activity id: 6 (subject+students) */
+ background-color: rgb(8, 37, 41);
+ color: white;
 }
 
-span.s_26 { /* subject Tecnologie dei materiali e dei processi produttivi e organizzativi della moda */
-
+td.c_26 { /* Activity id: 7 (subject+students) */
+ background-color: rgb(51, 180, 165);
+ color: black;
 }
-
-span.s_27 { /* subject Ideazione, progettazione e industrializzazione dei prodotti moda */
 
+td.c_27 { /* Activity id: 8 (subject+students) */
+ background-color: rgb(154, 46, 225);
+ color: white;
 }
 
-span.s_28 { /* subject Chimica applicata e nobilitazione dei materiali per i prodotti moda */
-
+td.c_28 { /* Activity id: 9 (subject+students) */
+ background-color: rgb(145, 64, 1);
+ color: white;
 }
 
-span.s_29 { /* subject Laboratorio di scienze e tecnologie tessili, dell’abbigliamento e della mod */
-
+td.c_29 { /* Activity id: 10 (subject+students) */
+ background-color: rgb(197, 138, 220);
+ color: black;
 }
-
-span.s_30 { /* subject Economia e marketing delle aziende della moda */
 
+td.c_30 { /* Activity id: 11 (subject+students) */
+ background-color: rgb(231, 8, 228);
+ color: white;
 }
 
-span.at_1 { /* activity tag IPSIA */
-
+td.c_31 { /* Activity id: 12 (subject+students) */
+ background-color: rgb(54, 252, 56);
+ color: black;
 }
-
-span.at_2 { /* activity tag ITAS */
 
+td.c_32 { /* Activity id: 13 (subject+students) */
+ background-color: rgb(7, 70, 218);
+ color: white;
 }
 
-span.at_3 { /* activity tag LICEO */
-
+td.c_33 { /* Activity id: 14 (subject+students) */
+ background-color: rgb(51, 156, 153);
+ color: white;
 }
 
-span.ss_1 { /* students set 2 IPSIA */
-
+td.c_34 { /* Activity id: 15 (subject+students) */
+ background-color: rgb(105, 33, 200);
+ color: white;
 }
-
-span.ss_4 { /* students set 3 IPSIA */
 
+td.c_35 { /* Activity id: 16 (subject+students) */
+ background-color: rgb(122, 177, 2);
+ color: black;
 }
 
-span.ss_7 { /* students set 2E IPSIA */
-
+td.c_36 { /* Activity id: 17 (subject+students) */
+ background-color: rgb(175, 114, 236);
+ color: black;
 }
-
-span.ss_10 { /* students set 4 IPSIA */
 
+td.c_37 { /* Activity id: 18 (subject+students) */
+ background-color: rgb(158, 200, 14);
+ color: black;
 }
 
-span.ss_13 { /* students set 5 IPSIA */
-
+td.c_38 { /* Activity id: 19 (subject+students) */
+ background-color: rgb(135, 34, 156);
+ color: white;
 }
 
-span.ss_16 { /* students set 3E IPSIA */
-
+td.c_39 { /* Activity id: 21 (subject+students) */
+ background-color: rgb(131, 5, 104);
+ color: white;
 }
-
-span.ss_19 { /* students set 2 LICEO */
 
+td.c_40 { /* Activity id: 22 (subject+students) */
+ background-color: rgb(86, 198, 134);
+ color: black;
 }
 
-span.ss_22 { /* students set 4 LICEO */
-
+td.c_41 { /* Activity id: 27 (subject+students) */
+ background-color: rgb(188, 226, 38);
+ color: black;
 }
-
-span.ss_25 { /* students set 3 ITAS */
 
+td.c_42 { /* Activity id: 28 (subject+students) */
+ background-color: rgb(141, 88, 196);
+ color: white;
 }
 
-span.t_1 { /* teacher Spina Loredana */
-
+td.c_43 { /* Activity id: 34 (subject+students) */
+ background-color: rgb(120, 59, 128);
+ color: white;
 }
 
-span.t_2 { /* teacher Alfano Sara */
-
+td.c_44 { /* Activity id: 35 (subject+students) */
+ background-color: rgb(130, 120, 139);
+ color: white;
 }
-
-span.t_3 { /* teacher Magro Emanuele */
 
+td.c_45 { /* Activity id: 36 (subject+students) */
+ background-color: rgb(195, 82, 99);
+ color: white;
 }
 
-span.t_4 { /* teacher Lo Giudice Marco */
-
+td.c_46 { /* Activity id: 38 (subject+students) */
+ background-color: rgb(5, 89, 95);
+ color: white;
 }
-
-span.t_5 { /* teacher Sarta Vincenzo */
 
+td.c_47 { /* Activity id: 40 (subject+students) */
+ background-color: rgb(215, 229, 149);
+ color: black;
 }
 
-span.t_6 { /* teacher Cirmena Roberto */
-
+td.c_48 { /* Activity id: 44 (subject+students) */
+ background-color: rgb(111, 150, 113);
+ color: black;
 }
 
-span.t_7 { /* teacher Italia Rosalinda */
-
+td.c_49 { /* Activity id: 45 (subject+students) */
+ background-color: rgb(84, 7, 253);
+ color: white;
 }
-
-span.t_8 { /* teacher Oddo Viviana */
 
+td.c_50 { /* Activity id: 46 (subject+students) */
+ background-color: rgb(246, 243, 89);
+ color: black;
 }
 
-span.t_9 { /* teacher Triolo Vanessa */
-
+td.c_51 { /* Activity id: 47 (subject+students) */
+ background-color: rgb(205, 98, 213);
+ color: black;
 }
-
-span.t_10 { /* teacher Rametta Giuseppe */
 
+td.c_52 { /* Activity id: 48 (subject+students) */
+ background-color: rgb(239, 71, 104);
+ color: white;
 }
 
-span.t_11 { /* teacher Russo Signorino */
-
+td.c_53 { /* Activity id: 49 (subject+students) */
+ background-color: rgb(212, 214, 228);
+ color: black;
 }
 
-span.t_12 { /* teacher Di Dio Giovanna */
-
+td.c_54 { /* Activity id: 50 (subject+students) */
+ background-color: rgb(77, 179, 204);
+ color: black;
 }
-
-span.t_13 { /* teacher Monaca Francesco */
 
+td.c_55 { /* Activity id: 52 (subject+students) */
+ background-color: rgb(204, 212, 127);
+ color: black;
 }
 
-span.t_14 { /* teacher Chimica */
-
+td.c_56 { /* Activity id: 53 (subject+students) */
+ background-color: rgb(247, 69, 243);
+ color: black;
 }
-
-span.t_15 { /* teacher Lab. Chimica */
 
+td.c_57 { /* Activity id: 54 (subject+students) */
+ background-color: rgb(85, 177, 87);
+ color: black;
 }
 
-span.t_16 { /* teacher Storia e filosofia */
-
+td.c_58 { /* Activity id: 55 (subject+students) */
+ background-color: rgb(110, 32, 219);
+ color: white;
 }
 
-span.t_17 { /* teacher Storia dell'Arte */
-
+td.c_59 { /* Activity id: 98 (subject+students) */
+ background-color: rgb(39, 43, 111);
+ color: white;
 }
-
-span.t_18 { /* teacher Discipline plastiche e scultoree */
 
+td.c_60 { /* Activity id: 99 (subject+students) */
+ background-color: rgb(173, 248, 110);
+ color: black;
 }
 
-span.t_19 { /* teacher Lab. tessile */
-
+td.c_61 { /* Activity id: 105 (subject+students) */
+ background-color: rgb(103, 124, 100);
+ color: white;
 }
-
-span.t_20 { /* teacher Economia e marketing delle aziende della moda */
 
+td.c_62 { /* Activity id: 114 (subject+students) */
+ background-color: rgb(227, 63, 214);
+ color: black;
 }
 
-span.t_21 { /* teacher Mateiali e ideazione */
-
+td.c_63 { /* Activity id: 123 (subject+students) */
+ background-color: rgb(242, 232, 129);
+ color: black;
 }
 
-span.r_1 { /* room -C1- */
-
+td.c_64 { /* Activity id: 135 (subject+students) */
+ background-color: rgb(45, 62, 78);
+ color: white;
 }
-
-span.r_2 { /* room -C2- */
 
+td.c_65 { /* Activity id: 137 (subject+students) */
+ background-color: rgb(167, 211, 229);
+ color: black;
 }
 
-span.r_3 { /* room C3-DOM */
-
+td.c_66 { /* Activity id: 139 (subject+students) */
+ background-color: rgb(73, 140, 181);
+ color: white;
 }
-
-span.r_4 { /* room -C4/5- */
 
+td.c_67 { /* Activity id: 141 (subject+students) */
+ background-color: rgb(208, 233, 157);
+ color: black;
 }
 
-span.r_5 { /* room -C6-LN1- */
-
+td.c_68 { /* Activity id: 143 (subject+students) */
+ background-color: rgb(66, 226, 85);
+ color: black;
 }
 
-span.r_6 { /* room -C7-LN2- */
-
+td.c_69 { /* Activity id: 145 (subject+students) */
+ background-color: rgb(84, 55, 105);
+ color: white;
 }
-
-span.r_7 { /* room -C10/12- */
 
+td.c_70 { /* Activity id: 147 (subject+students) */
+ background-color: rgb(176, 223, 46);
+ color: black;
 }
 
-span.r_8 { /* room A17-CHIM */
-
+td.c_71 { /* Activity id: 149 (subject+students) */
+ background-color: rgb(31, 118, 43);
+ color: white;
 }
-
-span.r_9 { /* room B1-OFF */
 
+td.c_72 { /* Activity id: 151 (subject+students) */
+ background-color: rgb(134, 19, 3);
+ color: white;
 }
 
-span.r_10 { /* room B2-SAL */
-
+td.c_73 { /* Activity id: 157 (subject+students) */
+ background-color: rgb(183, 99, 194);
+ color: black;
 }
 
-span.r_11 { /* room B3-FIS */
-
+td.c_74 { /* Activity id: 158 (subject+students) */
+ background-color: rgb(60, 229, 60);
+ color: black;
 }
-
-span.r_12 { /* room B4-MAN */
 
+td.c_75 { /* Activity id: 160 (subject+students) */
+ background-color: rgb(188, 52, 37);
+ color: white;
 }
 
-span.r_13 { /* room B5-CNC */
-
+td.c_76 { /* Activity id: 162 (subject+students) */
+ background-color: rgb(44, 101, 173);
+ color: white;
 }
-
-span.r_14 { /* room B6-PNE */
 
+td.c_77 { /* Activity id: 164 (subject+students) */
+ background-color: rgb(193, 220, 122);
+ color: black;
 }
 
-span.r_15 { /* room -B9-LL1- */
-
+td.c_78 { /* Activity id: 166 (subject+students) */
+ background-color: rgb(208, 146, 182);
+ color: black;
 }
 
-span.r_16 { /* room B10-INF */
-
+td.c_79 { /* Activity id: 167 (subject+students) */
+ background-color: rgb(17, 219, 216);
+ color: black;
 }
 
-span.r_17 { /* room C11-DIS */
+td.c_80 { /* Activity id: 170 (subject+students) */
+ background-color: rgb(248, 204, 87);
+ color: black;
+}
 
+td.c_81 { /* Activity id: 182 (subject+students) */
+ background-color: rgb(63, 135, 143);
+ color: white;
 }
 
 span.subject {
@@ -475,12 +560,10 @@ tr.line1, div.line1 {
 
 tr.line2, div.line2 {
   font-size: smaller;
-  color: gray;
 }
 
 tr.line3, div.line3 {
   font-size: smaller;
-  color: silver;
 }
 
 /* Disegna i periodi liberi degli insegnanti */
