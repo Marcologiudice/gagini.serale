@@ -1,26 +1,32 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Titolo della Pagina</title>
-  <link rel="stylesheet" href="../../../css/base.css">
-</head>
-<body>
-  <header>
-    <h1>Istituto Gagini – Percorsi Serali</h1>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="../orari.html">Orari</a></li>
-        <li><a href="moduli.html">Moduli</a></li>
-        <li><a href="contatti.html">Contatti</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <main>
-	<h2>Planning settimanale Classi <a href="index.html">provvisorio dal 22/09/2025</a></h2>
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
+  <head>
+    <title>Calapso Serale</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" media="all" href="style.css" type="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <script type="text/javascript">
+      function highlight(classval) {
+        var spans = document.getElementsByTagName('span');
+        for(var i=0; spans.length>i; i++) {
+          if (spans[i].className == classval) {
+            spans[i].style.backgroundColor = 'lime';
+          } else {
+            spans[i].style.backgroundColor = 'white';
+          }
+        }
+      }
+    </script>
+  </head>
+  <body id="top">
+    <table>
+      <tr align="left" valign="top">
+        <th>Nome dell'Istituto:</th>
+        <td>Calapso Serale</td>
+      </tr>
+    </table>
+<p><strong>Indice dei contenuti</strong></p>
     <ul>
       <li>
         Anno <a href="#table_1">2 IPSIA</a>
@@ -50,7 +56,7 @@
         Anno <a href="#table_25">3 ITAS</a>
       </li>
     </ul>
-      <p>&nbsp;</p>
+    <p>&nbsp;</p>
     <table id="table_1" border="1" class="odd_table">
       <caption><span class="institution">Calapso Serale</span><br /><span class="name">2 IPSIA</span></caption>
       <thead>
@@ -99,7 +105,7 @@
       <tbody>
         <tr>
           <th class="yAxis">1</th>
-          <td  class="s_1 at_1 ss_4 t_1"><div class="line1"><span class="subject"><span class="s_1" onmouseover="highlight('s_1')">ITALIANO</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_1" onmouseover="highlight('t_1')">Spina Loredana</span></div></td>
+          <td rowspan="2" class="s_1 at_1 ss_4 t_1"><div class="line1"><span class="subject"><span class="s_1" onmouseover="highlight('s_1')">ITALIANO</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_1" onmouseover="highlight('t_1')">Spina Loredana</span></div></td>
           <td class="s_14 at_1 ss_4 ss_7 t_3"><div class="studentsset line0"><span class="ss_4" onmouseover="highlight('ss_4')">3 IPSIA</span>, <span class="ss_7" onmouseover="highlight('ss_7')">2E IPSIA</span></div><div class="line1"><span class="subject"><span class="s_14" onmouseover="highlight('s_14')">TTIM</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_3" onmouseover="highlight('t_3')">Magro Emanuele</span></div></td>
           <td class="s_1 at_1 ss_4 t_1"><div class="line1"><span class="subject"><span class="s_1" onmouseover="highlight('s_1')">ITALIANO</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_1" onmouseover="highlight('t_1')">Spina Loredana</span></div></td>
           <td rowspan="2" class="s_9 at_1 ss_4 ss_7 t_4"><div class="studentsset line0"><span class="ss_4" onmouseover="highlight('ss_4')">3 IPSIA</span>, <span class="ss_7" onmouseover="highlight('ss_7')">2E IPSIA</span></div><div class="line1"><span class="subject"><span class="s_9" onmouseover="highlight('s_9')">LTE</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_4" onmouseover="highlight('t_4')">Lo Giudice Marco</span></div></td>
@@ -108,7 +114,7 @@
         <tr>
           <th class="yAxis">2</th>
           <!-- span -->
-          <td  class="s_4 at_1 ss_4 t_7"><div class="line1"><span class="subject"><span class="s_4" onmouseover="highlight('s_4')">MATEMATICA</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_7" onmouseover="highlight('t_7')">Italia Rosalinda</span></div></td>
+          <td rowspan="2" class="s_4 at_1 ss_4 t_7"><div class="line1"><span class="subject"><span class="s_4" onmouseover="highlight('s_4')">MATEMATICA</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_7" onmouseover="highlight('t_7')">Italia Rosalinda</span></div></td>
           <td class="s_14 at_1 ss_4 ss_7 t_3"><div class="studentsset line0"><span class="ss_4" onmouseover="highlight('ss_4')">3 IPSIA</span>, <span class="ss_7" onmouseover="highlight('ss_7')">2E IPSIA</span></div><div class="line1"><span class="subject"><span class="s_14" onmouseover="highlight('s_14')">TTIM</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_3" onmouseover="highlight('t_3')">Magro Emanuele</span></div></td>
           <!-- span -->
           <td class="s_5 at_1 ss_4 t_9"><div class="line1"><span class="subject"><span class="s_5" onmouseover="highlight('s_5')">RELIGIONE</span></span><span class="activitytag"> <span class="at_1" onmouseover="highlight('at_1')">IPSIA</span></span></div><div class="teacher line2"><span class="t_9" onmouseover="highlight('t_9')">Triolo Vanessa</span></div></td>
@@ -274,9 +280,9 @@
           <th class="yAxis">2</th>
           <td class="s_4 at_3 ss_19 t_11"><div class="line1"><span class="subject"><span class="s_4" onmouseover="highlight('s_4')">MATEMATICA</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_11" onmouseover="highlight('t_11')">Rametta Giuseppe</span></div></td>
           <td class="s_2 at_3 ss_19 t_2"><div class="line1"><span class="subject"><span class="s_2" onmouseover="highlight('s_2')">STORIA</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_2" onmouseover="highlight('t_2')">Alfano Sara</span></div></td>
-          <td  class="s_19 at_3 ss_19 t_12"><div class="line1"><span class="subject"><span class="s_19" onmouseover="highlight('s_19')">Discipline grafico pittoriche</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_12" onmouseover="highlight('t_12')">Russo Signorino</span></div></td>
+          <td rowspan="2" class="s_19 at_3 ss_19 t_12"><div class="line1"><span class="subject"><span class="s_19" onmouseover="highlight('s_19')">Discipline grafico pittoriche</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_12" onmouseover="highlight('t_12')">Russo Signorino</span></div></td>
           <td class="s_3 at_3 ss_19 t_8"><div class="line1"><span class="subject"><span class="s_3" onmouseover="highlight('s_3')">INGLESE</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_8" onmouseover="highlight('t_8')">Oddo Viviana</span></div></td>
-          <td  class="s_24 at_3 ss_19 t_13"><div class="line1"><span class="subject"><span class="s_24" onmouseover="highlight('s_24')">Discipline geometriche</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_13" onmouseover="highlight('t_13')">Di Dio Giovanna</span></div></td>
+          <td rowspan="2" class="s_24 at_3 ss_19 t_13"><div class="line1"><span class="subject"><span class="s_24" onmouseover="highlight('s_24')">Discipline geometriche</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_13" onmouseover="highlight('t_13')">Di Dio Giovanna</span></div></td>
         </tr>
 <!-- span -->
         <!-- span -->
@@ -311,8 +317,8 @@
           <th class="yAxis">2</th>
           <!-- span -->
           <td class="s_3 at_3 ss_22 t_8"><div class="line1"><span class="subject"><span class="s_3" onmouseover="highlight('s_3')">INGLESE</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_8" onmouseover="highlight('t_8')">Oddo Viviana</span></div></td>
-          <td  class="s_1 at_3 ss_22 t_2"><div class="line1"><span class="subject"><span class="s_1" onmouseover="highlight('s_1')">ITALIANO</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_2" onmouseover="highlight('t_2')">Alfano Sara</span></div></td>
-          <td  class="s_21 at_3 ss_22 t_12"><div class="line1"><span class="subject"><span class="s_21" onmouseover="highlight('s_21')">Discipline pittoriche</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_12" onmouseover="highlight('t_12')">Russo Signorino</span></div></td>
+          <td rowspan="2" class="s_1 at_3 ss_22 t_2"><div class="line1"><span class="subject"><span class="s_1" onmouseover="highlight('s_1')">ITALIANO</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_2" onmouseover="highlight('t_2')">Alfano Sara</span></div></td>
+          <td rowspan="2" class="s_21 at_3 ss_22 t_12"><div class="line1"><span class="subject"><span class="s_21" onmouseover="highlight('s_21')">Discipline pittoriche</span></span><span class="activitytag"> <span class="at_3" onmouseover="highlight('at_3')">LICEO</span></span></div><div class="teacher line2"><span class="t_12" onmouseover="highlight('t_12')">Russo Signorino</span></div></td>
           <!-- span -->
         </tr>
 <!-- span -->
@@ -358,10 +364,6 @@
       </tbody>
     </table>
     <p class="back"><a href="#top">Torna in alto</a></p>
-  </main>
-
-  <footer>
-    <p>© Istituto Gagini Serale – Siracusa</p>
-  </footer>
-</body>
+  </body>
 </html>
+
