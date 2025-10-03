@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Titolo della Pagina</title>
+  <title>Planning Settimanale – Istituto Gagini</title>
   <link rel="stylesheet" href="../../css/base.css">
 </head>
 <body>
@@ -22,12 +22,25 @@
   <main>
     <h2>Planning settimanale</h2>
     <p>Seleziona la settimana per visualizzare l'orario dettagliato.</p>
-  <ul>
-    <li><a href="provvisorio1/provvisorio1.html" >Provvisorio Settimana del 22/09/2025</a></li>
-    <li><a href="provvisorio4/provvisorio.html">Provvisorio Settimana del 29/09/2025 </a></li>  
-	<li><a href="provvisorio8/provvisorio.html" >Provvisorio Settimana del 06/10/2025 </a></li>
-  </ul>
-	  <p>** I  planning in elaborazione sono strutture orarie settimanali a carattere previsionale, da considerare come ipotesi operative suscettibili di revisione.</p>
+
+    <ul class="elenco-planning">
+      <li><a href="provvisorio1/provvisorio1.html" class="link-non-attivo">📄 Settimana dal 22/09/2025</a></li>
+      <li><a href="provvisorio4/provvisorio.html" class="link-non-attivo">📄 Settimana dal 29/09/2025</a></li>
+      <li><a href="provvisorio8/provvisorio.html" class="link-attivo">📄 Settimana dal 06/10/2025</a>
+	  </li><a href="provvisorio9/provvisorio.html" data-stato="elaborazione" onclick="alert('Link disabilitato'); return false;">📄 Settimana dal 13/10/2025</a>
+    </ul>
+
+    <div class="legenda">
+      <strong>Legenda:</strong><br>
+      <span style="color: gray;">Grigio – Non attivo</span>
+      <span style="color: #0055aa;">Blu – Attivo</span>
+      <span style="color: #aa5500;">Arancio – In elaborazione</span>
+    </div>
+
+    <p class="nota">
+      I planning contrassegnati in grigio non sono più attivi, ma restano consultabili.  
+      I planning in elaborazione sono strutture orarie settimanali a carattere previsionale, da considerare come ipotesi operative suscettibili di revisione.
+    </p>
   </main>
 
   <footer>

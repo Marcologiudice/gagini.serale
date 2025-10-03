@@ -92,3 +92,120 @@ main {
   font-size: 1.1em;
   margin-bottom: 0.5em;
 }
+/* === Planning Settimanale === */
+.elenco-planning {
+  list-style: none;
+  padding-left: 0;
+}
+
+.elenco-planning li {
+  margin-bottom: 0.6em;
+}
+
+.link-non-attivo {
+  color: gray;
+  text-decoration: none;
+}
+
+.link-attivo {
+  color: #0055aa;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link-elaborazione {
+  color: #aa5500;
+  font-style: italic;
+  text-decoration: none;
+}
+
+.link-non-attivo:hover,
+.link-attivo:hover,
+.link-elaborazione:hover {
+  text-decoration: underline;
+}
+
+.legenda,
+.nota {
+  font-size: 0.95em;
+  margin-top: 1em;
+  color: #333;
+}
+
+.legenda span {
+  display: inline-block;
+  margin-right: 1em;
+}
+a[data-stato="elaborazione"] {
+  color: #aa5500;
+  font-style: italic;
+}
+/*---------------News------------*/
+.news-home {
+  margin-top: 2em;
+  padding: 1em;
+  background-color: #f9f9f9;
+  border-left: 4px solid #0055aa;
+}
+
+.news-home h2 {
+  margin-bottom: 0.8em;
+  color: #0055aa;
+}
+
+.elenco-news {
+  list-style: none;
+  padding-left: 0;
+}
+
+.elenco-news li {
+  margin-bottom: 0.6em;
+  font-size: 0.95em;
+}
+
+.elenco-news a {
+  margin-left: 0.5em;
+  color: #0055aa;
+  text-decoration: none;
+}
+
+.elenco-news a:hover {
+  text-decoration: underline;
+}
+/*----------------Due colonne------------*/
+.contenitore-due-colonne {
+  display: flex;
+  gap: 2em;
+  margin-top: 2em;
+  flex-wrap: wrap; /* per adattarsi su schermi piccoli */
+}
+
+.colonna-sinistra {
+  flex: 2;
+  min-width: 300px;
+}
+
+.colonna-destra {
+  flex: 1;
+  min-width: 250px;
+  background-color: #f9f9f9;
+  padding: 1em;
+  border-left: 4px solid #0055aa;
+}
+.tabella-responsive {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.percorsi-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px; /* evita che le celle si comprimano troppo */
+}
+
+.percorsi-table th,
+.percorsi-table td {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  text-align: left;
+}
