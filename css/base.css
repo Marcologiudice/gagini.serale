@@ -114,7 +114,7 @@ main {
 }
 
 .link-elaborazione {
-  color: #aa5500;
+  color: #aa5500 !important;
   font-style: italic;
   text-decoration: none;
 }
