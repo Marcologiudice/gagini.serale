@@ -1,0 +1,7 @@
+﻿Generazione terminata alle: 01/10/25 00:25
+
+Il seme casuale alla fine della generazione è:
+	s10=2249347047, s11=3262919949, s12=214437233,
+	s20=3521721643, s21=2459655516, s22=56783930.
+
+Questo file è stato generato automaticamente da FET 7.4.7.

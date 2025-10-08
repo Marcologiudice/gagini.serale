@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Planning Settimanale – Istituto Gagini</title>
+  <link rel="stylesheet" href="../../css/base.css">
+</head>
+<body>
+  <header>
+    <h1>Istituto Gagini – Percorsi Serali</h1>
+    <nav>
+      <ul>
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="orari.html">Orari</a></li>
+        <li><a href="moduli.html" onclick="alert('Link disabilitato'); return false;">Moduli</a></li>
+        <li><a href="../../contatti/contatti.html">Contatti</a></li>
+		  <li><a href="../../intenti.html">Carta di intenti</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Planning settimanale</h2>
+    <p>Seleziona la settimana per visualizzare l'orario dettagliato.</p>
+
+    <ul class="elenco-planning">
+      <li><a href="provvisorio1/provvisorio1.html" class="link-non-attivo">📄 Settimana dal 22/09/2025</a></li>
+      <li><a href="provvisorio4/provvisorio.html" class="link-non-attivo">📄 Settimana dal 29/09/2025</a></li>
+      <li><a href="provvisorio8/provvisorio.html" class="link-attivo">📄 Settimana dal 06/10/2025</a>
+	  </li><a href="provvisorio9/provvisorio.html" data-stato="elaborazione">📄 Settimana dal 13/10/2025</a>
+    </ul>
+
+    <div class="legenda">
+      <strong>Legenda:</strong><br>
+      <span style="color: gray;">Grigio – Non attivo</span>
+      <span style="color: #0055aa;">Blu – Attivo</span>
+      <span style="color: #aa5500;">Arancio – In elaborazione</span>
+    </div>
+
+    <p class="nota">
+      I planning contrassegnati in grigio non sono più attivi, ma restano consultabili.  
+      I planning in elaborazione sono strutture orarie settimanali a carattere previsionale, da considerare come ipotesi operative suscettibili di revisione.
+    </p>
+  </main>
+
+  <footer>
+    <p>© Istituto Gagini Serale – Siracusa</p>
+  </footer>
+</body>
+</html>

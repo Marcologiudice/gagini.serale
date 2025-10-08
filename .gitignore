@@ -1,0 +1,15 @@
+﻿# File temporanei e di sistema
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# File di Dreamweaver
+_dws/
+_notes/
+
+# Cartelle di build o cache (se presenti)
+dist/
+build/
+node_modules/
