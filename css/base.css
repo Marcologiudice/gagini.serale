@@ -209,3 +209,55 @@ a[data-stato="elaborazione"] {
   border: 1px solid #ccc;
   text-align: left;
 }
+/*-------------CSS Moduli-------------------------*/
+.modulo-richieste {
+  background-color: #f5f5f5;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 700px;
+  margin: 2rem auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-family: "Segoe UI", sans-serif;
+}
+
+.modulo-richieste h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #2a2a2a;
+}
+
+.modulo-richieste p {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  color: #444;
+}
+
+.btn-form {
+  display: inline-block;
+  background-color: #0066cc;
+  color: #fff;
+  padding: 0.8rem 1.2rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.btn-form:hover {
+  background-color: #004a99;
+}
+/*---------------Contatti------------------*/
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 0.5em;
+  text-align: left;
+}
+
+thead {
+  background-color: #f0f0f0;
+}
